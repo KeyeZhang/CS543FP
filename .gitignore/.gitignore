@@ -1,2 +1,8 @@
-./ipynb_checkpoints/
-./local_test/
+.ipynb_checkpoints/*
+local_test/*
+data/*
+testing_date/*
+WIDER_train/*
+64-landmark-on-face/*
+.jpg
+.png
