@@ -4,5 +4,5 @@ data/*
 testing_date/*
 WIDER_train/*
 64-landmark-on-face/*
-.jpg
-.png
+*.jpg
+*.png
